@@ -9,6 +9,7 @@
 # --- Required options --- #
 ############################
 
+
 # Name of website
 title: Haymarket Studio
 
@@ -68,7 +69,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +14140000000
+ # telephone: +14140000000
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -138,13 +139,13 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#fffaff"
+page-col: "#ffffff"
 text-col: "#404040"
 link-col: "#e00000"
 hover-col: "#0085A1"
-navbar-col: "#111111"
+navbar-col: "#ffffff"
 navbar-text-col: "#e00000"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#FF99FF"
 footer-col: "#a1e1f7"
 footer-text-col: "#000000"
 footer-link-col: "#404040"
