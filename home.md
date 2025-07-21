@@ -2,7 +2,7 @@
 layout: page
 title: What we do
 subtitle: 
-full-width: true
+
 ---
 # Doing what works.
 
