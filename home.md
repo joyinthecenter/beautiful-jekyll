@@ -1,28 +1,25 @@
 ---
-layout: home
-title: home
+layout: page
+title: What we do
 subtitle: 
-<!--full-width: true-->
+full-width: true
 ---
+# Doing what works.
 
-<h1> Doing what works.</h1>
-<br>
 
-<img src="/assets/img/Curvesharpens.jpg">
+![testing image addition](/assets/img/Curvesharpens.jpg)
 
-<p>We've been down this road before. We look at your challenge and use methods that we know will work. 
-</p>
-<p>
+We've been down this road before. We look at your challenge and use methods that we know will work. 
+
 Haymarket offers clients over 20 years of experience creating effective, easy to use digital experiences. Across diverse industries, from modernizing civic technology, to enterprise productivity, consumer apps, and marketing, we bring an adaptable toolkit to move you toward your goals. When you aren’t sure where to start, our problem definition and user research will work with you to uncover the path to get the outcome you envision. Clearing the fog of ambiguity and creating certainty is at the core of being your strategic partner. 
-</p>
-<h2>What we do</h2>
-<ul>
-<li>Product Management</li>
-<li>User Research </li>
-<li>UX/UI Design</li>
-<li>Customer Experience practice development (CX)</li>
-<li>Service Design</li>
-<li>Business process modernization</li>
-<li>Training</li>
-<li>Storytelling and narrative development</li>
-</ul>
+
+## What we do
+- Product Management
+- User Research 
+- UX/UI Design
+- Customer Experience practice development (CX)
+- Service Design
+- Business process modernization
+- Training
+- Storytelling and narrative development
+

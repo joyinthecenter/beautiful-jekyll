@@ -1,8 +1,6 @@
 ---
 layout: page
 title: What we do
-subtitle: Home page copy of type of work we do
+subtitle: 
 ---
-
-
-test
+get rid of title

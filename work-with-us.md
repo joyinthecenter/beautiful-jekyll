@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work With Us
-subtitle: Packages
+subtitle: 
 ---
 
-test
+Don't display title
