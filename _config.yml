@@ -131,7 +131,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "technologist,consultant,web design,modernization,ux,cx,civic tech"
 
 ######################################
 # --- Colours / background image --- #
@@ -298,7 +298,7 @@ defaults:
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
-  - CNAME
+  #- CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
