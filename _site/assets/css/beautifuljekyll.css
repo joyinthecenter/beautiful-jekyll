@@ -44,8 +44,7 @@ body {
  
 }
 body > main {
-  
-  flex: 1;
+ flex: 1;
 }
 p {
   line-height: 1.5;
@@ -153,7 +152,7 @@ img {
 
 .navbar-custom {
   background-color: var(--navbar-col);
-  border-bottom: 2px solid var(--navbar-border-col);
+  border-bottom: 4px solid var(--navbar-border-col);
   font-family: var(--header-font);
   
   -webkit-transition: padding .5s ease-in-out;
@@ -999,7 +998,7 @@ pre {
 
 .center {
   display: block;
-  margin: 0 auto;
+ margin: 0;
 }
 
 /* Search bar */
