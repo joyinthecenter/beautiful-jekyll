@@ -13,13 +13,13 @@ We create structure to navigate abmiguity and move forward effectively. We are v
 
 
 
-### Some ways we help
-- Digital service leadership
+### Some ways we help:
+- Digital Services Team Leadership
 - Product Management
-- User Research 
+- User Research
 - UX/UI Design
-- Customer Experience practice development (CX)
+- Customer Experience Practice Development (CX)
 - Service Design
-- Business process modernization
-- Training and coaching
-- Storytelling and narrative development
+- Business Process modernization
+- Training and Coaching
+- Storytelling and Narrative Development

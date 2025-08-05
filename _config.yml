@@ -15,7 +15,8 @@ title: Haymarket Studio
 
 # Your name to show in the footer
 author: Haymarket Studio LLC
-
+Baseurl: "https://haymarketstudio.co" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://haymarketstudio.co" # the base hostname & protocol for your site, e.g. http://example.com
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
