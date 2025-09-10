@@ -15,18 +15,17 @@
   --footer-link-col: #404040;
   --footer-hover-col: #0085A1;
 
-
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
- --mid-col: #a1e1f7;
+  --mid-col: #a1e1f7;
   
 }
 
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
   
 }
 
@@ -53,7 +52,7 @@ p {
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.3;
   color: #390040
 }
 h1 {
@@ -385,6 +384,48 @@ img {
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
     width: 100%;
   }
+}
+/*--- Booking Panel --- */
+.book {
+  padding: 1.875rem ;
+  margin-top: 3.125rem;
+  font-size: 0.875rem;
+  text-align: center;
+  font-family: var(--body-font);
+  background: rgba(224, 0, 0, 1)
+}
+ 
+.book-heading h2{
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-family: var(--header-font);
+  font-size: 1.875rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #fffaff;
+}
+
+  .book-button {
+  background-color: #fffaff; /* white */
+  font-family: var(--header-font);
+  font-weight: 700;
+  border: none;
+  color: #390040;
+  border: 4px solid #8edaf6;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.book-button:hover {
+  background-color: #8edaf6;
+  border: 4px solid #fffaff;
+  color: #390040;
+  text-decoration: none;
 }
 
 /* --- Footer --- */

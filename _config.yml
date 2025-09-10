@@ -148,12 +148,13 @@ footer-text-col: "#000000"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
- 
-#--ghost-white: #fffaff;
-#--russian-violet: #390040;
-#--sky-blue: #a1e1f7;
-#--red-cmyk: #e00000;
-#--mimi-pink: #FF99FF;
+
+
+ghost-white: "#fffaff"
+russian-violet: "#390040"
+sky-blue: "#a1e1f7"
+red: "#e00000"
+mimi-pink: "#FF99FF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
