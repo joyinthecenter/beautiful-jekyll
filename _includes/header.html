@@ -31,13 +31,16 @@
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
-          {% endif %}-->
+          {% endif %}
           
           {% if include.type == "post" %} 
+           {% if page.title %}
+              <h1>{{ page.title | strip_html }}</h1><br>
+            {% endif%}
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            {{ page.date | date: date_format }}
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
@@ -47,7 +50,7 @@
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}
-          {% endif %}
+          {% endif %}-->
         </div>
       </div>
     </div>

@@ -5,15 +5,14 @@ subtitle:
 
 ---
 # What we do
-We've developed a particular set of skills to make your digital world better. 
+At Haymarket Studio, we are curious about people who use what we make, the challenges and peculiarities of meeting those needs, and your ideas. Great things start when smart people collaborate with the audience we build for. As a consultancy, we help clients navigate abmiguity, create structure, and move forward effectively. Experienced in modern methodologies, frameworks, and tools—we pick the best ones for your job. No prebaked slide decks and oversold strategies. Just good choices based on deep experience and outcomes. 
 
-We start with curiosity. We are curious about the people who will use what we make, the challenges and peculiarities of meeting those needs, and your ideas. Great things are not created from really smart people thinking hard in a room. We get out there and ask questions and learn from the people whose lives you want to change. 
+Haymarket Studio also provides [remote classes and workshops](https://haymarketstudio.co/Classes) to build your team's Research and Design capabilities. 
 
-We create structure to navigate abmiguity and move forward effectively. We are versed in modern methodologies, frameworks, and tools so that we can pick the best one for the job. No prebaked slide decks and oversold strategies. Just good choices based on deep experience and outcomes. 
+Being small means flexibility to meet your situation. From one day workshops to long term engagements, We work with you in a way that meets your challenge. From an intial consultation, we can create a proposal that is nimble enough to adapt as we work together. 
 
 
-
-### Some ways we help:
+### Our Services:
 - Digital Services Team Leadership
 - Product Management
 - User Research
@@ -24,7 +23,7 @@ We create structure to navigate abmiguity and move forward effectively. We are v
 - Training and Coaching
 - Storytelling and Narrative Development
 
-
+#### Connect with us!   Email [hello@haymarketstudio.co](mailto:hello@haymarketstudio.co)
 
 ### We've worked with:
 ![Logo board of banking, civic tech, and consumber brands](/assets/img/brand_logoboard.png "Organizations we've helped")

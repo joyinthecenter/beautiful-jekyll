@@ -1,11 +1,11 @@
 [ 
  
 { 
-"title"    : "Sample blog post to learn markdown tips", 
-"desc"     : "Sample blog post to learn markdown tips", 
-"category" : "test", 
-"url"      : "/2020-02-28-sample-markdown/", 
-"date"     : "February 28, 2020" 
+"title"    : "It’s Time for Trauma-Informed Design", 
+"desc"     : "It’s Time for Trauma-Informed Design", 
+"category" : "user_research, design, product, trauma", 
+"url"      : "/2025-10-09-trauma-informed-design/", 
+"date"     : "October  9, 2025" 
 }, 
  
  
@@ -13,15 +13,23 @@
 "title"    : "About", 
 "desc"     : "About", 
 "category" : "page", 
-"url"      : "/aboutme/", 
+"url"      : "/about/", 
 "date"     : "January 1, 1970" 
 }, 
  
 { 
-"title"    : "What we do", 
-"desc"     : "What we do", 
+"title"    : "Articles", 
+"desc"     : "Articles", 
 "category" : "page", 
-"url"      : "/home/", 
+"url"      : "/articles/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Classes", 
+"desc"     : "Classes", 
+"category" : "page", 
+"url"      : "/classes/", 
 "date"     : "January 1, 1970" 
 }, 
  

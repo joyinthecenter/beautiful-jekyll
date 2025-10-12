@@ -22,9 +22,11 @@ url: "https://haymarketstudio.co" # the base hostname & protocol for your site, 
 ###############################################
 
 navbar-links:
+  Articles: "articles"
+  Classes: "classes"
+  About: "about"
   What we do: "what-we-do"
-  About: "aboutme"
-  Work With Us: "work-with-us"
+
 
 ################
 # --- Logo --- #

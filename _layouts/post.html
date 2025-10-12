@@ -2,18 +2,18 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
+{% include header.html type="page" %}
 
-<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+<main class="container-fluid ">
   <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-8 offset-lg-2 {% endif %}">
 
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
 
-        <div id="header-gh-btns">
+      <div id="header-gh-btns">
           {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
               {% case badge %}
@@ -30,6 +30,20 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
+      
+      
+           {% if page.title %}
+              <h1>{{ page.title | strip_html }}</h1><br>
+            {% endif%}
+            {% if page.author %}
+              By <strong>{{ page.author | strip_html }}</strong><br>
+            {% endif%}
+            {{ page.date | date: date_format }}
+           
+            {% if page.readtime %}
+              {% include readtime.html %}
+            {% endif %}
+        
 
       {% if page.before-content %}
         <div class="before-content">
@@ -39,9 +53,9 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="blog-post">
+     
         {{ content }}
-      </div>
+    
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">

@@ -4,6 +4,7 @@
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
       {% include social-networks-links.html %}
       {% if page.footer-extra %}
+   
         <div class="footer-custom-content">
           {% for file in page.footer-extra %}
             {% include {{ file }} %}
@@ -35,11 +36,10 @@
         &nbsp;&bull;&nbsp;
         <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
        {% endif%}
-
       </p>
+      
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+          Proudly made in Chicago.
       </p>{% endunless %}
       </div>
     </div>
