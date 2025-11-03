@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://haymarketstudio.co/2025-10-09-trauma-informed-design/</loc>
+<loc>http://localhost:4000/2025-10-09-trauma-informed-design/</loc>
 <lastmod>2025-10-09T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://haymarketstudio.co/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/articles/</loc>
+<loc>http://localhost:4000/articles/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/classes/</loc>
+<loc>http://localhost:4000/classes/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/tags/</loc>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/what-we-do/</loc>
+<loc>http://localhost:4000/what-we-do/</loc>
 </url>
 <url>
-<loc>https://haymarketstudio.co/work-with-us/</loc>
+<loc>http://localhost:4000/work-with-us/</loc>
 </url>
 </urlset>
