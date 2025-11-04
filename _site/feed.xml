@@ -10,6 +10,20 @@
     
     
       <item>
+        <title>Design lessons from homo economicus</title>
+        
+        <dc:creator><![CDATA[ Gail Swanson ]]></dc:creator>
+        
+        <description>
+          
+          Standard economic theory is built upon the premise that people’s behavior is the result of logical reasoning and always prioritizing self interest. Adam Smith set down the foundational belief that men, I say men here because he didn’t consider women as economic actors, make decisions rationally, and prioritize their own...
+        </description>
+        <pubDate>Sun, 02 Nov 2025 00:00:00 -0500</pubDate>
+        <link>/2025-11-02-homo-economicus/</link>
+        <guid isPermaLink="true">https://haymarketstudio.co/2025-11-02-homo-economicus/</guid>
+      </item>
+    
+      <item>
         <title>It’s Time for Trauma-Informed Design</title>
         
         <dc:creator><![CDATA[ Gail Swanson ]]></dc:creator>
@@ -20,7 +34,7 @@
         </description>
         <pubDate>Thu, 09 Oct 2025 00:00:00 -0500</pubDate>
         <link>/2025-10-09-trauma-informed-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025-10-09-trauma-informed-design/</guid>
+        <guid isPermaLink="true">https://haymarketstudio.co/2025-10-09-trauma-informed-design/</guid>
       </item>
     
   </channel>

@@ -62,7 +62,7 @@ social-network-links:
  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: HaymarketStudio LLC
+  linkedin: "haymarket-studio-llc"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -149,7 +149,6 @@ footer-col: "#a1e1f7"
 footer-text-col: "#000000"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
-
 
 
 ghost-white: "#fffaff"
