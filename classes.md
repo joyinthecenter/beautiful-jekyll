@@ -11,11 +11,13 @@ We provide pragmatic instruction and guided practice with new techniques. We sha
 
 ### Introduction to Trauma-Informed Design and User Research Methods
 
-<a href="https://www.eventbrite.com/e/introduction-to-trauma-informed-design-and-research-tickets-1782546738279" target=blank class="btn btn-danger active" role="button" aria-pressed="true">Get tickets</a>
+<a href="https://www.eventbrite.com/e/introduction-to-trauma-informed-design-and-research-tickets-1967770867636?aff=oddtdtcreator" target=blank class="btn btn-danger active" role="button" aria-pressed="true">Get tickets</a>
 
-**When:** Thursday, November 6 · 11am - 12:30pm CST
+**When:** Wednesday, December 3 · 10am - 12:00pm CST
 
 **Where:** Online 
+
+**Cost:** $40-$145
 
 ### Who is this for? 
 - People who want to introduce practices in their organization to reduce accidental harm done by using their products.
